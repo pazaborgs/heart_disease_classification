@@ -54,6 +54,41 @@ Com a retomada do projeto, pude revisar o pipeline de pré-processamento, aplica
 - Bibliotecas: Pandas, Plotly, Dash, Scikit-learn, Keras, TensorFlow.
 - Jupyter Notebooks.
 
+---
+
+# Como Executar
+
+1. Clone o repositório
+
+```bash
+git clone https://github.com/pazaborgs/heart_disease_classification.git
+cd seu-repositorio
+```
+
+2. Crie um ambiente virtual (opcional)
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate     # Windows
+```
+
+3. Instale as dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Execute os notebooks
+
+```bash
+jupyter notebook
+```
+
+Pode-se rodar os notebooks também no Colab ou ferramenta similiar.
+
+
+
 
 
 
